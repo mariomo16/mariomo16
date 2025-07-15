@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Soy Mario Morales y soy estudiante de Desarrollo de Aplicaciones Web, de Cieza (Murcia), España</h2>
+<h2 align="left">Hola 👋! Soy Mario Morales y soy estudiante de Desarrollo de Aplicaciones Web</h2>
 
 ###
 
