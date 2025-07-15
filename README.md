@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlmcWYxYTBhMzN6eGJzb3JobXZrazg2MzhyOG14Mmx3aHN3YzNwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w7CP59oLYw6PK/giphy.gif"  />
+<img align="right" height="150" src="https://giphy.com/gifs/anime-marin-kitagawa-0a05bUU1NERB5k2X3r"  />
 
 ###
 
