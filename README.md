@@ -54,9 +54,9 @@
 
 ###
 
-<div align="center"><a href="https://www.linkedin.com/in/ortega02/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"></a>&nbsp;<a href="mailto:moralesortegamario02@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=maildotru&label=&color=0078D4&logoColor=white&style=for-the-badge" height="25" alt="email logo"></a></div>
+<!--<div align="center"><a href="https://www.linkedin.com/in/ortega02/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"></a>&nbsp;<a href="mailto:moralesortegamario02@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=maildotru&label=&color=0078D4&logoColor=white&style=for-the-badge" height="25" alt="email logo"></a></div>
 
-###
+###-->
 
 <div align="center">
   <img
