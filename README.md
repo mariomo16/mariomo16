@@ -4,51 +4,51 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
-  <img width="12" />
+  <img width="10" />
   <img
     src="https://skillicons.dev/icons?i=laravel"
     height="60"
     alt="laravel logo"
   />
-  <img width="12" />
+  <img width="10" />
   <img
     src="https://skillicons.dev/icons?i=angular"
     height="60"
     alt="angular logo"
   />
-  <img width="12" />
+  <img width="10" />
   <img
     src="https://skillicons.dev/icons?i=flutter"
     height="60"
     alt="flutter logo"
   />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo" />
-  <img width="12" />
+  <img width="10" />
   <img
     src="https://skillicons.dev/icons?i=mysql"
     height="60"
     alt="mysql logo"
   />
-  <img width="12" />
+  <img width="10" />
   <img
     src="https://skillicons.dev/icons?i=mongodb"
     height="60"
     alt="mongodb logo"
   />
-  <img width="12" />
+  <img width="10" />
   <img
     src="https://skillicons.dev/icons?i=tailwind"
     height="60"
     alt="tailwind logo"
   />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
 </div>
 
