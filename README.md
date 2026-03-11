@@ -22,14 +22,6 @@
   />
   <img width="10" />
   <img
-    src="https://skillicons.dev/icons?i=flutter"
-    height="60"
-    alt="flutter logo"
-  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo" />
-  <img width="10" />
-  <img
     src="https://skillicons.dev/icons?i=mysql"
     height="60"
     alt="mysql logo"
@@ -60,7 +52,7 @@
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=mariomo16&locale=en&mode=daily&theme=catppuccin-mocha&hide_border=false&border_radius=5&order=3"
+    src="https://streak-stats.demolab.com?user=ortegamario02&locale=en&mode=daily&theme=catppuccin-mocha&hide_border=false&border_radius=5&order=3"
     height="150"
     alt="streak graph"
   />
