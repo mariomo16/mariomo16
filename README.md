@@ -51,11 +51,7 @@
 ###-->
 
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=mariomo16&locale=en&mode=daily&theme=github-dark&hide_border=false&border_radius=5&order=3"
-    height="150"
-    alt="streak graph"
-  />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mariomo16&theme=github-dark&border_radius=6&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 </div>
 
 <!--###
