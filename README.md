@@ -5,6 +5,6 @@
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mariomo16&theme=github-dark&border_radius=6&locale=es&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mariomo16&theme=github-dark&border_radius=6&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 </div>
