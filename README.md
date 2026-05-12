@@ -52,7 +52,7 @@
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=mariomo16&locale=en&mode=daily&theme=github-dark-dimmed&hide_border=false&border_radius=5&order=3"
+    src="https://streak-stats.demolab.com?user=mariomo16&locale=en&mode=daily&theme=github-dark&hide_border=false&border_radius=5&order=3"
     height="150"
     alt="streak graph"
   />
